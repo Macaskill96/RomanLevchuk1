@@ -1,0 +1,16 @@
+h1{
+    background: brown;
+    color: blue;
+}
+h2 {
+    background: darkblue;
+    color: chartreuse;
+}
+p{
+    background: grey;
+    color: cornflowerblue;
+}
+ul{
+    background: blue;
+    color: chartreuse;
+}
