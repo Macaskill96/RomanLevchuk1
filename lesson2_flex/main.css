@@ -1,0 +1,49 @@
+.osnova {
+    display: flex;
+    column-gap: 25px;
+    row-gap: 15px;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box:nth-child(1) {
+    background: red;
+}
+.box:nth-child(2) {
+    background: blue;
+}
+.box:nth-child(3) {
+    background: green;
+}
+body {
+    margin: 0;
+}
+.father {
+    background: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 500px;
+}
+.mother {
+    background: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 500px;
+
+}
+.jesus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+flex-direction: column;
+row-gap: 25px;
