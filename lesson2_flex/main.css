@@ -29,7 +29,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 250px;
+    height: 200px;
     width: 500px;
 }
 .mother {
@@ -37,7 +37,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 250px;
+    height: 350px;
     width: 500px;
 
 }
