@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7f0a0a0-0f45-4ed3-8fe6-3ff4108985c4" name="Changes" comment="Change &quot;alt&quot; images">
-      <change afterPath="$PROJECT_DIR$/lesson2_flex/hometask_flex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_flex/main.css" afterDir="false" />
+    <list default="true" id="f7f0a0a0-0f45-4ed3-8fe6-3ff4108985c4" name="Changes" comment="doing hometask with flex">
+      <change afterPath="$PROJECT_DIR$/lesson2_flex/hometaska part2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson2_flex/hometaska part2/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673987215565</updated>
-      <workItem from="1673987216085" duration="14143000" />
+      <workItem from="1673987216085" duration="18729000" />
     </task>
     <task id="LOCAL-00001" summary="hometask 1">
       <created>1674055047252</created>
@@ -74,7 +74,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674057653554</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="doing hometask with flex">
+      <created>1674511224839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674511224839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="doing hometask with flex">
+      <created>1674511387204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674511387204</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hometask 1" />
     <MESSAGE value="Change &quot;alt&quot; images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Change &quot;alt&quot; images" />
+    <MESSAGE value="doing hometask with flex" />
+    <option name="LAST_COMMIT_MESSAGE" value="doing hometask with flex" />
   </component>
 </project>
