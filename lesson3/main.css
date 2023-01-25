@@ -1,0 +1,58 @@
+.golovna{
+    width: 100%;
+    height: 750px;
+    background: silver;
+
+}
+
+.general{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    background: silver;
+
+}
+
+.osnova{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    background: blue;
+
+}
+
+.icons{
+    display: flex;
+    position: absolute;
+    bottom: 80px;
+    right: 35%;
+    column-gap: 30px;
+}
+.kartinka{
+    width: 150px;
+    height: 150px;
+    background: darkblue;
+    border-radius: 6px;
+    transition: 100ms;
+}
+.end{
+    width: 100%;
+    height: 150px;
+    background: silver;
+}
+body{
+    margin: 0;
+}
+.knopka{
+    position: absolute;
+    width: 140px;
+    height: 50px;
+    background: brown;
+    right: 1350px;
+    top: 25px;
+    border-radius: 8px;
+}
+
+.kartinka:hover {
+    background: darkorchid;
+}
