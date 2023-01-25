@@ -34,3 +34,17 @@ button{
     width: 200px;
     height: 80px;
 }
+
+.img{
+    height: 70px;
+    width: 70px;
+    background: green;
+}
+
+.icons{
+    display: flex;
+    position: absolute;
+    column-gap: 350px;
+    top: 50px;
+
+}
